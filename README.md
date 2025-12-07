@@ -44,5 +44,5 @@ pip install tensorflow librosa numpy matplotlib scikit-learn
 python preprocessing.py
 
 # 3. Train/Run Model via Notebook
-jupyter notebook CNN_ProyectoVoces_Eq1.ipynb
+jupyter notebook CNN_SER.ipynb
 ```
